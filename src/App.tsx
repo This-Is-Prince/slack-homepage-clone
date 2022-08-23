@@ -1,9 +1,11 @@
-import React from 'react'
+import Aside from "./components/Aside";
 
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
+    <>
+      <Aside />
+    </>
+  );
+};
 
-export default App
+export default App;
