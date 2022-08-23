@@ -29,6 +29,31 @@ const navLinks: INavLink[] = [
     fields: [
       {
         title: "Features",
+        url: "#",
+      },
+      {
+        title: "Channels",
+        url: "#",
+      },
+      {
+        title: "Your digital HQ",
+        url: "#",
+      },
+      {
+        title: "Integrations",
+        url: "#",
+      },
+      {
+        title: "Security",
+        url: "#",
+      },
+      {
+        title: "Slack Connect",
+        url: "#",
+      },
+      {
+        title: "Customers",
+        url: "#",
       },
     ],
   },
